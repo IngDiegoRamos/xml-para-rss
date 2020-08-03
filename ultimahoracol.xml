@@ -1,4 +1,5 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 <channel>
 <title>EL TIEMPO.COM - Colombia</title>
 <description>Noticias de Colombia en EL TIEMPO</description>
@@ -80,7 +81,7 @@
 <guid>https://www.eltiempo.com/colombia/barranquilla/murio-la-jefe-de-la-oficina-de-pasaportes-del-atlantico-525116</guid>
 <enclosure type="image/jpeg" length="43970" url="https://www.eltiempo.com/files/article_graphic/files/crop/uploads/2020/08/02/5f27388b75ba1.r_14084858.0-0-448-222.jpeg"/>
 <category>Barranquilla</category>
-<description>Gloría Plata es recordada como una de las funcionarias públicas más eficientes del departamento.&nbsp;</description>
+<description>Gloría Plata es recordada como una de las funcionarias públicas más eficientes del departamento.&amp;nbsp;</description>
 <slash:comments>0</slash:comments>
 </item>
 <item>
@@ -90,7 +91,7 @@
 <guid>https://www.eltiempo.com/colombia/cali/alerta-por-triple-asesinato-de-indigenas-en-norte-del-cauca-525104</guid>
 <enclosure type="image/jpeg" length="63025" url="https://www.eltiempo.com/files/article_graphic/uploads/2020/08/02/5f272a87e9590.jpeg"/>
 <category>Cali</category>
-<description>Los crímenes se registraron en Santander de Quilichao.&nbsp;</description>
+<description>Los crímenes se registraron en Santander de Quilichao.&amp;nbsp;</description>
 <slash:comments>0</slash:comments>
 </item>
 <item>
@@ -115,3 +116,4 @@
 </item>
 </channel>
 </rss>
+
