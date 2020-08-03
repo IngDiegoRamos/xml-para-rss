@@ -1,119 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
-<channel>
-<title>EL TIEMPO.COM - Colombia</title>
-<description>Noticias de Colombia en EL TIEMPO</description>
-<image>
-<url>https://www.eltiempo.com/bundles/eltiempocms/images/et-rss.png</url>
-<title>EL TIEMPO.COM - Colombia</title>
-<link>https://www.eltiempo.com</link>
-</image>
-<pubDate>Mon, 03 Aug 2020 02:46:23 +0000</pubDate>
-<lastBuildDate>Mon, 03 Aug 2020 02:46:23 +0000</lastBuildDate>
-<generator>Wf Feed Generator (https://www.eltiempo.com)</generator>
-<link>https://www.eltiempo.com</link>
-<category>Colombia</category>
-<atom:link rel="self" type="application/rss+xml" href="https://www.eltiempo.com/rss/colombia.xml"/>
-<item>
-<title>Preocupación en Medellín por los nuevos retrasos en Hidroituango</title>
-<pubDate>Mon, 03 Aug 2020 02:44:14 +0000</pubDate>
-<link>https://www.eltiempo.com/colombia/otras-ciudades/hidroituango-preocupacion-por-nuevos-retrasos-en-la-megaobra-de-antioquia-colombia-525178</link>
-<guid>https://www.eltiempo.com/colombia/otras-ciudades/hidroituango-preocupacion-por-nuevos-retrasos-en-la-megaobra-de-antioquia-colombia-525178</guid>
-<enclosure type="image/jpeg" length="1075789" url="https://www.eltiempo.com/files/article_graphic/uploads/2019/04/28/5cc5cdd37b1c3.jpeg"/>
-<category>Otras Ciudades</category>
-<description>EPM explicó cuándo sería el inicio de las operaciones y cómo enfrentarían las pérdidas económicas.</description>
-<slash:comments>0</slash:comments>
-</item>
-<item>
-<title>Ibagué estrenó área de hospitalización para salud mental</title>
-<pubDate>Mon, 03 Aug 2020 02:33:40 +0000</pubDate>
-<link>https://www.eltiempo.com/colombia/otras-ciudades/ibague-ya-cuenta-con-area-de-hospitalizacion-para-salud-mental-525206</link>
-<guid>https://www.eltiempo.com/colombia/otras-ciudades/ibague-ya-cuenta-con-area-de-hospitalizacion-para-salud-mental-525206</guid>
-<enclosure type="image/jpeg" length="64920" url="https://www.eltiempo.com/files/article_graphic/uploads/2020/08/02/5f2776a70b49e.jpeg"/>
-<category>Otras Ciudades</category>
-<description>Atiende adultos y adolescentes con diversas patologías aceleradas por la pandemia.</description>
-<slash:comments>0</slash:comments>
-</item>
-<item>
-<title>Triple sentencia para violador serial de Melgar, Tolima</title>
-<pubDate>Mon, 03 Aug 2020 01:07:58 +0000</pubDate>
-<link>https://www.eltiempo.com/colombia/otras-ciudades/tolima-condenan-a-violador-en-serie-de-melgar-abuso-sexual-en-colombia-525176</link>
-<guid>https://www.eltiempo.com/colombia/otras-ciudades/tolima-condenan-a-violador-en-serie-de-melgar-abuso-sexual-en-colombia-525176</guid>
-<enclosure type="image/jpeg" length="51119" url="https://www.eltiempo.com/files/article_graphic/uploads/2020/06/15/5ee7d1ac98b1b.jpeg"/>
-<category>Otras Ciudades</category>
-<description>El condenado era conocido por entrar de noche a las casas a hurtar y abusar de las mujeres.</description>
-<slash:comments>0</slash:comments>
-</item>
-<item>
-<title>A 40 muertes por coronavirus saltó Valle del Cauca este domingo</title>
-<pubDate>Mon, 03 Aug 2020 00:08:15 +0000</pubDate>
-<link>https://www.eltiempo.com/colombia/cali/a-40-muertes-por-coronavirus-salto-valle-del-cauca-este-domingo-525146</link>
-<guid>https://www.eltiempo.com/colombia/cali/a-40-muertes-por-coronavirus-salto-valle-del-cauca-este-domingo-525146</guid>
-<enclosure type="image/jpeg" length="785229" url="https://www.eltiempo.com/files/article_graphic/uploads/2020/04/20/5e9e4b191764a.jpeg"/>
-<category>Cali</category>
-<description>Reporte del Ministerio de Salud reportó 642 nuevos casos por el contagio.</description>
-<slash:comments>0</slash:comments>
-</item>
-<item>
-<title>El médico barranquillero que lleva 54 días con el coronavirus</title>
-<pubDate>Sun, 02 Aug 2020 23:32:34 +0000</pubDate>
-<link>https://www.eltiempo.com/colombia/barranquilla/el-medico-barranquillero-que-lleva-54-dias-con-el-coronavirus-525106</link>
-<guid>https://www.eltiempo.com/colombia/barranquilla/el-medico-barranquillero-que-lleva-54-dias-con-el-coronavirus-525106</guid>
-<enclosure type="image/jpeg" length="60372" url="https://www.eltiempo.com/files/article_graphic/uploads/2020/08/02/5f272b4bd1c2e.jpeg"/>
-<category>Barranquilla</category>
-<description>Al doctor Iván Manajarrez le han practicado tres exámenes y sale positivo de covid-19.</description>
-<slash:comments>0</slash:comments>
-</item>
-<item>
-<title>Crisis sacude a los restaurantes de Medellín</title>
-<pubDate>Sun, 02 Aug 2020 23:12:01 +0000</pubDate>
-<link>https://www.eltiempo.com/colombia/medellin/crisis-sacude-a-los-restaurantes-de-medellin-525128</link>
-<guid>https://www.eltiempo.com/colombia/medellin/crisis-sacude-a-los-restaurantes-de-medellin-525128</guid>
-<enclosure type="image/jpeg" length="12218694" url="https://www.eltiempo.com/files/article_graphic/uploads/2020/08/02/5f274427e1f4a.jpeg"/>
-<category>Medellín</category>
-<description>El Trompo, un ejemplo de cómo la crisis económica por la pandemia obligó al cierre de este lugar.</description>
-<slash:comments>0</slash:comments>
-</item>
-<item>
-<title>Falleció la jefe de la Oficina de Pasaportes del Atlántico</title>
-<pubDate>Sun, 02 Aug 2020 22:16:44 +0000</pubDate>
-<link>https://www.eltiempo.com/colombia/barranquilla/murio-la-jefe-de-la-oficina-de-pasaportes-del-atlantico-525116</link>
-<guid>https://www.eltiempo.com/colombia/barranquilla/murio-la-jefe-de-la-oficina-de-pasaportes-del-atlantico-525116</guid>
-<enclosure type="image/jpeg" length="43970" url="https://www.eltiempo.com/files/article_graphic/files/crop/uploads/2020/08/02/5f27388b75ba1.r_14084858.0-0-448-222.jpeg"/>
-<category>Barranquilla</category>
-<description>Gloría Plata es recordada como una de las funcionarias públicas más eficientes del departamento.&amp;nbsp;</description>
-<slash:comments>0</slash:comments>
-</item>
-<item>
-<title>Alerta por triple asesinato de indígenas en norte del Cauca</title>
-<pubDate>Sun, 02 Aug 2020 21:05:38 +0000</pubDate>
-<link>https://www.eltiempo.com/colombia/cali/alerta-por-triple-asesinato-de-indigenas-en-norte-del-cauca-525104</link>
-<guid>https://www.eltiempo.com/colombia/cali/alerta-por-triple-asesinato-de-indigenas-en-norte-del-cauca-525104</guid>
-<enclosure type="image/jpeg" length="63025" url="https://www.eltiempo.com/files/article_graphic/uploads/2020/08/02/5f272a87e9590.jpeg"/>
-<category>Cali</category>
-<description>Los crímenes se registraron en Santander de Quilichao.&amp;nbsp;</description>
-<slash:comments>0</slash:comments>
-</item>
-<item>
-<title>Bomberos luchan contra gigantesco incendio en Yumbo</title>
-<pubDate>Sun, 02 Aug 2020 20:23:34 +0000</pubDate>
-<link>https://www.eltiempo.com/colombia/cali/bomberos-luchan-contra-gigantesco-incendio-en-yumbo-525092</link>
-<guid>https://www.eltiempo.com/colombia/cali/bomberos-luchan-contra-gigantesco-incendio-en-yumbo-525092</guid>
-<enclosure type="image/jpeg" length="227674" url="https://www.eltiempo.com/files/article_graphic/uploads/2020/08/02/5f271ad58c7a3.jpeg"/>
-<category>Cali</category>
-<description>La conflagración se inició al medio día de este 2 de agosto. Se desconoce la causa del origen.</description>
-<slash:comments>0</slash:comments>
-</item>
-<item>
-<title>Aeropuerto de San Andrés recibió el visto bueno para volver a operar</title>
-<pubDate>Sun, 02 Aug 2020 18:50:11 +0000</pubDate>
-<link>https://www.eltiempo.com/colombia/otras-ciudades/vuelos-nacionales-aeropuerto-de-san-andresrecibe-el-aval-para-retomar-operaciones-colombia-525086</link>
-<guid>https://www.eltiempo.com/colombia/otras-ciudades/vuelos-nacionales-aeropuerto-de-san-andresrecibe-el-aval-para-retomar-operaciones-colombia-525086</guid>
-<enclosure type="image/jpeg" length="663798" url="https://www.eltiempo.com/files/article_graphic/uploads/2018/06/05/5b17221d7dbf6.jpeg"/>
-<category>Otras Ciudades</category>
-<description>Estas serían las rutas con las que podría volar a la isla cuando la terminal aérea reabra.</description>
-<slash:comments>0</slash:comments>
-</item>
-</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 
+	<title>TecnologÃ­a | Ultimahoracol.com</title>
+	<subtitle>TecnologÃ­a | Ultimahoracol.com</subtitle>
+	<link href="http://fetchrss.com/rss/5f2780ab8a93f81e348b45685f2780978a93f882348b4567.atom" rel="self" />
+	<id>http://fetchrss.com/rss/5f2780ab8a93f81e348b45685f2780978a93f882348b4567.xml</id>
+	<updated>2020-08-03T03:13:00+00:00</updated>
+	<generator uri="http://fetchrss.com" version="1.0">FetchRSS</generator>
+	<icon>https://www.google.com/s2/favicons?domain=https://ultimahoracol.com</icon>
+
+		<entry>
+			<title>Estas son las apps de fotografÃ­a que espÃ­an y roban informaciÃ³n privada</title>
+			<link href="https://ultimahoracol.com/estas-son-las-apps-de-fotografia-que-espian-y-roban-informacion-privada/" rel="self" />
+			<content type="html">&lt;p class="card-text"&gt;Por medio de una investigaciÃ³n descubrieron 29 aplicaciones fotogrÃ¡ficas que podrÃ­an poner en riesgo los celulares Android.&lt;/p&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;span style="font-size:12px; color: gray;"&gt;(Feed generated with &lt;a href="http://fetchrss.com" target="_blank"&gt;FetchRSS&lt;/a&gt;)&lt;/span&gt;</content>
+			<updated>2020-08-03T03:12:23+00:00</updated>
+			<id>https://ultimahoracol.com/estas-son-las-apps-de-fotografia-que-espian-y-roban-informacion-privada/</id>
+		</entry>
+
+		<entry>
+			<title>Estos son los nuevos SmartTv de Samsung con tecnologÃ­a 8K</title>
+			<link href="https://ultimahoracol.com/nuevos-smart-tv-de-samsung-con-tecnologia-8k/" rel="self" />
+			<content type="html">&lt;p class="card-text"&gt;Samsung presentÃ³ recientemente todas las novedades que tendrÃ¡n sus SmartTv QLED 8k y UHD 4k y con la integraciÃ³n de inteligencia artificial.&lt;/p&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;span style="font-size:12px; color: gray;"&gt;(Feed generated with &lt;a href="http://fetchrss.com" target="_blank"&gt;FetchRSS&lt;/a&gt;)&lt;/span&gt;</content>
+			<updated>2020-08-03T03:12:23+00:00</updated>
+			<id>https://ultimahoracol.com/nuevos-smart-tv-de-samsung-con-tecnologia-8k/</id>
+		</entry>
+
+		<entry>
+			<title>Apps ocultas, el reto de seguridad para Android</title>
+			<link href="https://ultimahoracol.com/apps-ocultas-el-reto-de-seguridad-para-android/" rel="self" />
+			<content type="html">&lt;p class="card-text"&gt;Las apps ocultas son una amenaza para Android. Descubre por quÃ© y cuÃ¡les aplicaciones externas ayudan a combatir este peligro.&lt;/p&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;span style="font-size:12px; color: gray;"&gt;(Feed generated with &lt;a href="http://fetchrss.com" target="_blank"&gt;FetchRSS&lt;/a&gt;)&lt;/span&gt;</content>
+			<updated>2020-08-03T03:12:23+00:00</updated>
+			<id>https://ultimahoracol.com/apps-ocultas-el-reto-de-seguridad-para-android/</id>
+		</entry>
+
+		<entry>
+			<title>La televisiÃ³n por cable estÃ¡ en crisis. Esta es la razÃ³n</title>
+			<link href="https://ultimahoracol.com/la-television-por-cable-esta-en-crisis-esta-es-la-razon/" rel="self" />
+			<content type="html">&lt;p class="card-text"&gt;Las cadenas de televisiÃ³n estadounidenses se encuentran en crisis por plataformas de streaming como Netflix, Amazon Prime, entre otras.&lt;/p&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;span style="font-size:12px; color: gray;"&gt;(Feed generated with &lt;a href="http://fetchrss.com" target="_blank"&gt;FetchRSS&lt;/a&gt;)&lt;/span&gt;</content>
+			<updated>2020-08-03T03:12:23+00:00</updated>
+			<id>https://ultimahoracol.com/la-television-por-cable-esta-en-crisis-esta-es-la-razon/</id>
+		</entry>
+
+		<entry>
+			<title>Conozca la nave que transportarÃ­a turistas al espacio</title>
+			<link href="https://ultimahoracol.com/conozca-la-nave-que-transportaria-turistas-al-espacio/" rel="self" />
+			<content type="html">&lt;p class="card-text"&gt;La compaÃ±Ã­a Virgin Galactic presentÃ³ en realidad virtual, el interior y exterior de la nave que llevarÃ¡ turistas al espacio.&lt;/p&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;span style="font-size:12px; color: gray;"&gt;(Feed generated with &lt;a href="http://fetchrss.com" target="_blank"&gt;FetchRSS&lt;/a&gt;)&lt;/span&gt;</content>
+			<updated>2020-08-03T03:12:23+00:00</updated>
+			<id>https://ultimahoracol.com/conozca-la-nave-que-transportaria-turistas-al-espacio/</id>
+		</entry>
+
+
+</feed>
